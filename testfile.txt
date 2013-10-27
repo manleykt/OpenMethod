@@ -1,1 +1,5 @@
 This file was created using the online tools. This is here for others to try to hack on and make changes to.
+
+This is me trying to add a picture via html
+
+<img src="http://www.swantonschool.org/wp-content/uploads/2012/09/Music-Note.png" alt="Music Note" />
